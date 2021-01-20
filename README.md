@@ -1,0 +1,3 @@
+# Project for a small dice roller utility
+
+Todo...
